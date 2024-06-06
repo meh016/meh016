@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil🖤
 
-<!--
-**meh016/meh016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é melina eduarda
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce pode entrar em contato comigo 📫
+
+  melinaeduardaflavioeduarda@gmail.com
+
+
+
+
+  ![](https://media1.tenor.com/m/z_rWymRBM-0AAAAd/girl-baby.gif)
